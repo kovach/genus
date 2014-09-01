@@ -1,3 +1,5 @@
-var ed = require('./editor');
+//var ED = require('./editor');
+_ = require('mori');
+p = require ('./parse');
 
-ed.init();
+//ed = ED.init();

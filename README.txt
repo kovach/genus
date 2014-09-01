@@ -19,3 +19,7 @@
 
 - dr uses the Ace Javascript code editor.
   - It supports various key-binding modes and has a good API.
+
+To run:
+npm install connect serve-static mori
+node src/web.js
